@@ -4,3 +4,4 @@
 # Бросить кости
 # Показать рандомную цитату
 Бот находится в разработке.
+![](https://sun7-7.userapi.com/0H1QJIQ3kP5DjwkL4ljGwSGgeHqZqtEeDnnkIA/bTvke3Ho0So.jpg)
